@@ -1,3 +1,3 @@
 # images-scraper
-It is an JavaScript and NodeJs Application. It basically a images-scraper web application, and deployed on Docker.
+It is a NodeJs  images-scraper web application which scrapes google images based on the user search.
 
