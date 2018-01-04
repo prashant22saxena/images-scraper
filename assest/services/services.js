@@ -1,5 +1,5 @@
-//var baseurl = 'http://130.211.224.114:8000';
-var baseurl = 'http://prashantsaxena.in';
+//var baseurl = 'http://:8000';
+var baseurl = 'http://prashantsaxena.tk';
 
 
 app.service('userServices',function($http){
